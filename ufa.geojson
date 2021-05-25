@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T12:56:47Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1307944304",
+        "name": "Черниковка",
+        "railway": "station",
+        "uic_ref": "2024738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0976068,
+          54.8066228
+        ]
+      },
+      "id": "node/1307944304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327126090",
+        "name": "Шугуровка",
+        "railway": "station",
+        "uic_ref": "2024207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1370539,
+          54.8126836
+        ]
+      },
+      "id": "node/1327126090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956856976",
+        "name": "Черниковка",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.0979479,
+          54.8065182
+        ]
+      },
+      "id": "node/3956856976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4074554112",
+        "esr:user": "654504",
+        "int_name": "Ufa",
+        "name": "Уфа",
+        "name:en": "Ufa",
+        "name:ja": "ウファ",
+        "name:ru": "Уфа",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Ufa",
+        "uic_ref": "2000172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.9481799,
+          54.7487609
+        ]
+      },
+      "id": "node/4074554112"
+    }
+  ]
+}

@@ -1,0 +1,2218 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T10:26:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/912682169",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2182184,
+            55.7441014
+          ],
+          [
+            49.2183125,
+            55.744152
+          ],
+          [
+            49.2183998,
+            55.7441989
+          ],
+          [
+            49.2197721,
+            55.7433901
+          ],
+          [
+            49.2196823,
+            55.7433418
+          ],
+          [
+            49.219591,
+            55.7432927
+          ],
+          [
+            49.2182184,
+            55.7441014
+          ]
+        ]
+      },
+      "id": "way/912682169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163405332",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.0795268,
+            55.8432415
+          ],
+          [
+            49.0835833,
+            55.8436605
+          ],
+          [
+            49.0835992,
+            55.8436197
+          ],
+          [
+            49.083225,
+            55.8435687
+          ],
+          [
+            49.0795498,
+            55.8431828
+          ],
+          [
+            49.0746569,
+            55.8426617
+          ],
+          [
+            49.0737303,
+            55.8425701
+          ],
+          [
+            49.0737105,
+            55.8426271
+          ],
+          [
+            49.0795268,
+            55.8432415
+          ]
+        ]
+      },
+      "id": "way/163405332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163405337",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.0748597,
+            55.8424677
+          ],
+          [
+            49.0756438,
+            55.842539
+          ],
+          [
+            49.0796556,
+            55.8429493
+          ],
+          [
+            49.0812704,
+            55.8431304
+          ],
+          [
+            49.0820817,
+            55.8432053
+          ],
+          [
+            49.0841616,
+            55.8433699
+          ],
+          [
+            49.0841764,
+            55.8433135
+          ],
+          [
+            49.0821019,
+            55.8431409
+          ],
+          [
+            49.0813021,
+            55.8430657
+          ],
+          [
+            49.0796622,
+            55.8428916
+          ],
+          [
+            49.0756562,
+            55.8424806
+          ],
+          [
+            49.0749079,
+            55.8424157
+          ],
+          [
+            49.0742628,
+            55.8423749
+          ],
+          [
+            49.0742482,
+            55.8424205
+          ],
+          [
+            49.0748597,
+            55.8424677
+          ]
+        ]
+      },
+      "id": "way/163405337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330278555",
+        "name": "Аметьево",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.163519,
+          55.7647727
+        ]
+      },
+      "id": "node/330278555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886276",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2087778,
+          55.749663
+        ]
+      },
+      "id": "node/441886276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591044,
+            "reltags": {
+              "name": "Горки",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1916069,
+          55.759693
+        ]
+      },
+      "id": "node/441886277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886279",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591045,
+            "reltags": {
+              "name": "Суконная слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1435332,
+          55.7765517
+        ]
+      },
+      "id": "node/441886279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886280",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1249837,
+          55.7855307
+        ]
+      },
+      "id": "node/441886280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886281",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591047,
+            "reltags": {
+              "name": "Кремлёвская",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1071056,
+          55.795151
+        ]
+      },
+      "id": "node/441886281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/485545210",
+        "esr:user": "250919",
+        "name": "Восстание-Пассажирская",
+        "railway": "station",
+        "uic_name": "Wosstanie Passajirsk",
+        "uic_ref": "2060961",
+        "wikidata": "Q33820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0812189,
+          55.8434389
+        ]
+      },
+      "id": "node/485545210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/507118362",
+        "esr:user": "250800",
+        "name": "Ометьево",
+        "railway": "station",
+        "uic_ref": "2061402",
+        "wikidata": "Q28417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1676379,
+          55.7779164
+        ]
+      },
+      "id": "node/507118362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666304747",
+        "esr:user": "250209",
+        "name": "Лагерная",
+        "railway": "station",
+        "uic_ref": "2060633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0117546,
+          55.8013106
+        ]
+      },
+      "id": "node/666304747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/706084497",
+        "esr:user": "250815",
+        "name": "Новаторов",
+        "railway": "station",
+        "uic_ref": "2061555",
+        "wikidata": "Q28415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1746832,
+          55.806423
+        ]
+      },
+      "id": "node/706084497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/819347415",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.098499,
+          55.81716
+        ]
+      },
+      "id": "node/819347415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/875506152",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.207529,
+          55.750041
+        ]
+      },
+      "id": "node/875506152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/875506154",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2086454,
+          55.7493441
+        ]
+      },
+      "id": "node/875506154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913287042",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591046,
+            "reltags": {
+              "name": "Аметьево",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.16651,
+          55.765133
+        ]
+      },
+      "id": "node/913287042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913287046",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591046,
+            "reltags": {
+              "name": "Аметьево",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1648957,
+          55.7652935
+        ]
+      },
+      "id": "node/913287046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992477829",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 12417191,
+            "reltags": {
+              "name": "Колхозный рынок",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1067851,
+          55.7855177
+        ]
+      },
+      "id": "node/992477829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992477855",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 12417192,
+            "reltags": {
+              "name": "Колхозный рынок",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1079345,
+          55.7855721
+        ]
+      },
+      "id": "node/992477855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049819960",
+        "name": "Тихорецкая",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1280249,
+          55.7376227
+        ]
+      },
+      "id": "node/1049819960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1099732404",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2565809,
+            "reltags": {
+              "name": "Левченко",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0281712,
+          55.8378883
+        ]
+      },
+      "id": "node/1099732404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1099732532",
+        "esr:user": "250707",
+        "name": "Вахитово",
+        "name:tt-lat": "Vaxitovo",
+        "railway": "station",
+        "uic_ref": "2061401",
+        "wikidata": "Q33822",
+        "wikipedia": "ru:Вахитово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1073058,
+          55.7677505
+        ]
+      },
+      "id": "node/1099732532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1155198944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591045,
+            "reltags": {
+              "name": "Суконная слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1434412,
+          55.7763524
+        ]
+      },
+      "id": "node/1155198944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931656",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0843827,
+          55.8562385
+        ]
+      },
+      "id": "node/1420931656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931658",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.08198,
+          55.8419677
+        ]
+      },
+      "id": "node/1420931658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931684",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0822807,
+          55.8284795
+        ]
+      },
+      "id": "node/1420931684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1449531685",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 2565809,
+            "reltags": {
+              "name": "Левченко",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0281974,
+          55.8378366
+        ]
+      },
+      "id": "node/1449531685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1449551455",
+        "esr:user": "250820",
+        "name": "Компрессорный",
+        "railway": "station",
+        "uic_ref": "2062435",
+        "wikidata": "Q33821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1830412,
+          55.8220059
+        ]
+      },
+      "id": "node/1449551455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1578417308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591047,
+            "reltags": {
+              "name": "Кремлёвская",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1064045,
+          55.7959463
+        ]
+      },
+      "id": "node/1578417308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1578417311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591047,
+            "reltags": {
+              "name": "Кремлёвская",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1060117,
+          55.79597
+        ]
+      },
+      "id": "node/1578417311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686967473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0985678,
+          55.8159286
+        ]
+      },
+      "id": "node/1686967473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686967476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1001544,
+          55.8158022
+        ]
+      },
+      "id": "node/1686967476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1686967477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0988823,
+          55.8154567
+        ]
+      },
+      "id": "node/1686967477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699758735",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1261319,
+          55.7851751
+        ]
+      },
+      "id": "node/1699758735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699758780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1222579,
+          55.7868101
+        ]
+      },
+      "id": "node/1699758780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699758791",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1226852,
+          55.7870557
+        ]
+      },
+      "id": "node/1699758791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699758796",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1214059,
+          55.7872094
+        ]
+      },
+      "id": "node/1699758796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699758800",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591048,
+            "reltags": {
+              "name": "площадь Тукая",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1218242,
+          55.7874687
+        ]
+      },
+      "id": "node/1699758800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1755214702",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0999423,
+          55.8161183
+        ]
+      },
+      "id": "node/1755214702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802074535",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2099026,
+          55.7499409
+        ]
+      },
+      "id": "node/1802074535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802074536",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2085813,
+          55.750699
+        ]
+      },
+      "id": "node/1802074536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858223485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591045,
+            "reltags": {
+              "name": "Суконная слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1414897,
+          55.7774365
+        ]
+      },
+      "id": "node/1858223485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858223486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591045,
+            "reltags": {
+              "name": "Суконная слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1408372,
+          55.7777487
+        ]
+      },
+      "id": "node/1858223486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1864107836",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 12417191,
+            "reltags": {
+              "name": "Колхозный рынок",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1068762,
+          55.7855653
+        ]
+      },
+      "id": "node/1864107836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2005942152",
+        "esr:user": "250938",
+        "name": "Левченко",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2061730",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 2565809,
+            "reltags": {
+              "name": "Левченко",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0284163,
+          55.8378075
+        ]
+      },
+      "id": "node/2005942152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289514995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0833348,
+          55.8270366
+        ]
+      },
+      "id": "node/2289514995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289515008",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0838748,
+          55.8272737
+        ]
+      },
+      "id": "node/2289515008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289515024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0817668,
+          55.8286936
+        ]
+      },
+      "id": "node/2289515024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289515035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0822965,
+          55.8288309
+        ]
+      },
+      "id": "node/2289515035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317277653",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.097242,
+          55.8172708
+        ]
+      },
+      "id": "node/2317277653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317277654",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591042,
+            "reltags": {
+              "name": "Козья слобода",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0990087,
+          55.8178584
+        ]
+      },
+      "id": "node/2317277654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337346118",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591044,
+            "reltags": {
+              "name": "Горки",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1914817,
+          55.7596864
+        ]
+      },
+      "id": "node/2337346118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337346119",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591044,
+            "reltags": {
+              "name": "Горки",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1922808,
+          55.760105
+        ]
+      },
+      "id": "node/2337346119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339479562",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2094541,
+          55.7503569
+        ]
+      },
+      "id": "node/2339479562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339479566",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591043,
+            "reltags": {
+              "name": "Проспект Победы",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2093044,
+          55.7504244
+        ]
+      },
+      "id": "node/2339479566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352695646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0817586,
+          55.8428385
+        ]
+      },
+      "id": "node/2352695646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2430148964",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591044,
+            "reltags": {
+              "name": "Горки",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1918341,
+          55.759871
+        ]
+      },
+      "id": "node/2430148964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2430148968",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591044,
+            "reltags": {
+              "name": "Горки",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1919665,
+          55.7599404
+        ]
+      },
+      "id": "node/2430148968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2437373573",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591046,
+            "reltags": {
+              "name": "Аметьево",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1682599,
+          55.7645891
+        ]
+      },
+      "id": "node/2437373573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2437373577",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591046,
+            "reltags": {
+              "name": "Аметьево",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1685773,
+          55.7647057
+        ]
+      },
+      "id": "node/2437373577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2539644073",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0807621,
+          55.8411649
+        ]
+      },
+      "id": "node/2539644073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571807",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0841394,
+          55.8545546
+        ]
+      },
+      "id": "node/2578571807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0849182,
+          55.8550207
+        ]
+      },
+      "id": "node/2578571808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571809",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0842474,
+          55.8565148
+        ]
+      },
+      "id": "node/2578571809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571810",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.08503,
+          55.856475
+        ]
+      },
+      "id": "node/2578571810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571811",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0850458,
+          55.8567564
+        ]
+      },
+      "id": "node/2578571811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2578571812",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591039,
+            "reltags": {
+              "name": "Авиастроительная",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0842963,
+          55.8570579
+        ]
+      },
+      "id": "node/2578571812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781868100",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0816121,
+          55.8288791
+        ]
+      },
+      "id": "node/2781868100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2781868101",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0820628,
+          55.8290955
+        ]
+      },
+      "id": "node/2781868101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788472597",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0831467,
+          55.8271798
+        ]
+      },
+      "id": "node/2788472597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788472599",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591041,
+            "reltags": {
+              "name": "Яшьлек",
+              "name:tt-lat": "Yäşlek",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0837143,
+          55.8274919
+        ]
+      },
+      "id": "node/2788472599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286500563",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591040,
+            "reltags": {
+              "name": "Северный вокзал",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0822621,
+          55.8408768
+        ]
+      },
+      "id": "node/3286500563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3728226845",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591046,
+            "reltags": {
+              "name": "Аметьево",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.168308,
+          55.7649251
+        ]
+      },
+      "id": "node/3728226845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795178533",
+        "alt_name": "Казань",
+        "alt_name:ru": "Казань",
+        "esr:user": "250302",
+        "name": "Казань-Пассажирская",
+        "name:en": "Kazan-Passazhirskaya",
+        "name:ru": "Казань-Пассажирская",
+        "name:tt": "Казан-Пассажирлы",
+        "name:tt-lat": "Qazan-Passajirlı",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Kazan Passajirskij",
+        "uic_ref": "2000715",
+        "wikidata": "Q34085",
+        "wikipedia": "ru:Казань-Пассажирская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0997021,
+          55.7886328
+        ]
+      },
+      "id": "node/4795178533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466448623",
+        "esr:user": "251004",
+        "name": "Дербышки",
+        "railway": "station",
+        "uic_ref": "2060617",
+        "wikidata": "Q83386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1955784,
+          55.8530649
+        ]
+      },
+      "id": "node/6466448623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8497838518",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 12417192,
+            "reltags": {
+              "name": "Колхозный рынок",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1078911,
+          55.7855474
+        ]
+      },
+      "id": "node/8497838518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5273697015",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591047,
+            "reltags": {
+              "name": "Кремлёвская",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1058422,
+          55.7954108
+        ]
+      },
+      "id": "node/5273697015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5311948264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 7591047,
+            "reltags": {
+              "name": "Кремлёвская",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1076878,
+          55.7947805
+        ]
+      },
+      "id": "node/5311948264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5868304044",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2191069,
+          55.7436814
+        ]
+      },
+      "id": "node/5868304044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7267072471",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2175405,
+          55.7443168
+        ]
+      },
+      "id": "node/7267072471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7267072472",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2183703,
+          55.7446888
+        ]
+      },
+      "id": "node/7267072472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7267072473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2206131,
+          55.743372
+        ]
+      },
+      "id": "node/7267072473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7267072474",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2198623,
+          55.7429235
+        ]
+      },
+      "id": "node/7267072474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8478348786",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 10832897,
+            "reltags": {
+              "name": "Дубравная",
+              "name:en": "Dubravnaya",
+              "public_transport": "stop_area",
+              "type": "public_transport"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2188931,
+          55.7443966
+        ]
+      },
+      "id": "node/8478348786"
+    }
+  ]
+}

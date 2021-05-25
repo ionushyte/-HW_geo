@@ -1,0 +1,866 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T12:14:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97661423",
+        "area": "yes",
+        "building": "yes",
+        "name": "Починки",
+        "name:ja": "ポチンキ",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.8283829,
+              56.3669119
+            ],
+            [
+              43.828556,
+              56.3667676
+            ],
+            [
+              43.828729,
+              56.3666233
+            ],
+            [
+              43.8288291,
+              56.3666601
+            ],
+            [
+              43.828483,
+              56.3669488
+            ],
+            [
+              43.8283829,
+              56.3669119
+            ]
+          ]
+        ]
+      },
+      "id": "way/97661423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130738759",
+        "addr:housenumber": "2",
+        "addr:postcode": "603009",
+        "addr:street": "станция Мыза",
+        "building": "yes",
+        "name": "Мыза",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.9810607,
+              56.2518839
+            ],
+            [
+              43.9810107,
+              56.2517889
+            ],
+            [
+              43.9814607,
+              56.2517199
+            ],
+            [
+              43.9815107,
+              56.2518149
+            ],
+            [
+              43.9810607,
+              56.2518839
+            ]
+          ]
+        ]
+      },
+      "id": "way/130738759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154073922",
+        "building": "yes",
+        "name": "435 км",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.877299,
+              56.29569
+            ],
+            [
+              43.8770738,
+              56.2956028
+            ],
+            [
+              43.8771402,
+              56.29555
+            ],
+            [
+              43.8773654,
+              56.2956372
+            ],
+            [
+              43.877299,
+              56.29569
+            ]
+          ]
+        ]
+      },
+      "id": "way/154073922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191808178",
+        "building": "yes",
+        "name": "Окская",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.813008,
+              56.1566415
+            ],
+            [
+              43.8128259,
+              56.1566098
+            ],
+            [
+              43.8129295,
+              56.1564249
+            ],
+            [
+              43.8131115,
+              56.1564565
+            ],
+            [
+              43.813008,
+              56.1566415
+            ]
+          ]
+        ]
+      },
+      "id": "way/191808178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372322750",
+        "building": "yes",
+        "name": "Кудьма",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.871471,
+              56.1660062
+            ],
+            [
+              43.8715891,
+              56.1659046
+            ],
+            [
+              43.8719458,
+              56.1660316
+            ],
+            [
+              43.8718224,
+              56.1661301
+            ],
+            [
+              43.871471,
+              56.1660062
+            ]
+          ]
+        ]
+      },
+      "id": "way/372322750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635235527",
+        "building": "yes",
+        "name": "Ройка",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.0193609,
+              56.199145
+            ],
+            [
+              44.0194565,
+              56.1990427
+            ],
+            [
+              44.0196688,
+              56.1991076
+            ],
+            [
+              44.0195733,
+              56.19921
+            ],
+            [
+              44.0193609,
+              56.199145
+            ]
+          ]
+        ]
+      },
+      "id": "way/635235527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260751095",
+        "esr:user": "264926",
+        "name": "Окская",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2060030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8134868,
+          56.1566038
+        ]
+      },
+      "id": "node/260751095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018444",
+        "name": "Буревестник",
+        "name:en": "Burevestnik",
+        "name:ru": "Буревестник",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2002-09-09",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2291079",
+        "wikipedia": "ru:Буревестник (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8948583,
+          56.3332764
+        ]
+      },
+      "id": "node/442018444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018445",
+        "name": "Бурнаковская",
+        "name:en": "Burnakovskaya",
+        "name:ru": "Бурнаковская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1993-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2195443",
+        "wikipedia": "ru:Бурнаковская (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9113027,
+          56.3261878
+        ]
+      },
+      "id": "node/442018445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018446",
+        "name": "Канавинская",
+        "name:en": "Kanavinskaya",
+        "name:ru": "Канавинская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1993-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1969434",
+        "wikipedia": "ru:Канавинская (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9267525,
+          56.3205583
+        ]
+      },
+      "id": "node/442018446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018457",
+        "name": "Чкаловская",
+        "name:en": "Chkalovskaya",
+        "name:ru": "Чкаловская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2295801",
+        "wikipedia": "ru:Чкаловская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9371885,
+          56.3105914
+        ]
+      },
+      "id": "node/442018457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018464",
+        "name": "Ленинская",
+        "name:en": "Leninskaya",
+        "name:ru": "Ленинская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2625311",
+        "wikipedia": "ru:Ленинская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9381541,
+          56.2990741
+        ]
+      },
+      "id": "node/442018464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018465",
+        "name": "Заречная",
+        "name:en": "Zarechnaya",
+        "name:ru": "Заречная",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2199991",
+        "wikipedia": "ru:Заречная (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9277795,
+          56.2851552
+        ]
+      },
+      "id": "node/442018465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018466",
+        "name": "Двигатель Революции",
+        "name:en": "Dvigatel Revolyutsii",
+        "name:ru": "Двигатель Революции",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1986702",
+        "wikipedia": "ru:Двигатель Революции (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9212993,
+          56.2764656
+        ]
+      },
+      "id": "node/442018466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018468",
+        "name": "Пролетарская",
+        "name:en": "Proletarskaya",
+        "name:ru": "Пролетарская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2711335",
+        "wikipedia": "ru:Пролетарская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9132416,
+          56.2665054
+        ]
+      },
+      "id": "node/442018468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018470",
+        "name": "Автозаводская",
+        "name:en": "Avtozavodskaya",
+        "name:ru": "Автозаводская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1987-08-08",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2623336",
+        "wikipedia": "ru:Автозаводская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9016391,
+          56.2574111
+        ]
+      },
+      "id": "node/442018470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018471",
+        "name": "Комсомольская",
+        "name:en": "Komsomolskaya",
+        "name:ru": "Комсомольская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1987-08-08",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2623608",
+        "wikipedia": "ru:Комсомольская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.890065,
+          56.2529053
+        ]
+      },
+      "id": "node/442018471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018472",
+        "name": "Кировская",
+        "name:en": "Kirovskaya",
+        "name:ru": "Кировская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1989-11-15",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2623783",
+        "wikipedia": "ru:Кировская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8766948,
+          56.2476955
+        ]
+      },
+      "id": "node/442018472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442018474",
+        "name": "Парк культуры",
+        "name:en": "Park Kultury",
+        "name:ru": "Парк культуры",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1989-11-15",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2119789",
+        "wikipedia": "ru:Парк культуры (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8580146,
+          56.2420622
+        ]
+      },
+      "id": "node/442018474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/514682852",
+        "name": "проспект Гагарина",
+        "network": "Нижегородская городская электричка",
+        "operator": "Горьковская железная дорога",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.971823,
+          56.2547891
+        ]
+      },
+      "id": "node/514682852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566427146",
+        "esr:user": "261415",
+        "name": "Варя",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2061535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.883332,
+          56.3390608
+        ]
+      },
+      "id": "node/566427146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566451955",
+        "esr:user": "269601",
+        "name": "Зелецино",
+        "railway": "station",
+        "uic_ref": "2060771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1348325,
+          56.1375856
+        ]
+      },
+      "id": "node/566451955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566474573",
+        "esr:user": "264606",
+        "name": "Доскино",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2061450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7576118,
+          56.2646229
+        ]
+      },
+      "id": "node/566474573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1168000150",
+        "name": "Родина",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9332257,
+          56.3079263
+        ]
+      },
+      "id": "node/1168000150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1654624511",
+        "esr:user": "269506",
+        "name": "Кстово",
+        "name:ja": "クストヴォ",
+        "railway": "station",
+        "uic_ref": "2060644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1639288,
+          56.1717895
+        ]
+      },
+      "id": "node/1654624511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676309219",
+        "name": "Моховые горы",
+        "network": "Горьковская железная дорога",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0737929,
+          56.3566478
+        ]
+      },
+      "id": "node/1676309219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837006210",
+        "esr:user": "260111",
+        "name": "Кустовая",
+        "railway": "station",
+        "uic_ref": "2061731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8837715,
+          56.2551813
+        ]
+      },
+      "id": "node/1837006210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3086398955",
+        "name": "Горьковская",
+        "name:en": "Gorkovskaya",
+        "name:ru": "Горьковская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2012-11-04",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q676961",
+        "wikipedia": "ru:Горьковская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9939237,
+          56.3137948
+        ]
+      },
+      "id": "node/3086398955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5137578904",
+        "name": "Московская",
+        "name:en": "Moskovskaya",
+        "name:ru": "Московская",
+        "network": "Нижегородский метрополитен",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "1985-11-20",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q1857770",
+        "wikipedia": "ru:Московская (станция метро, Нижний Новгород)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9471056,
+          56.3209761
+        ]
+      },
+      "id": "node/5137578904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5584606667",
+        "name": "Стрелка",
+        "operator": "МП «Нижегородское метро»",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4443666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9495909,
+          56.3352584
+        ]
+      },
+      "id": "node/5584606667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5691037820",
+        "name": "Нижний Новгород-Московский",
+        "old_name": "Горький-Московский",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Nishnij Novgorod Moskovsk",
+        "uic_ref": "2000570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9456934,
+          56.3221653
+        ]
+      },
+      "id": "node/5691037820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8546851337",
+        "esr:user": "260003",
+        "name": "Нижний Новгород-Сортировочный",
+        "network": "Нижегородская городская электричка",
+        "operator": "ОАО «РЖД»",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Nishnij Novgorod Sortirovochnij",
+        "uic_ref": "2000569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.85425,
+          56.2866468
+        ]
+      },
+      "id": "node/8546851337"
+    }
+  ]
+}

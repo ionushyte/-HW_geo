@@ -1,0 +1,971 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T07:58:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224839615",
+        "building": "yes",
+        "name": "бл.-п. 76 км",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.2620631,
+              53.0734578
+            ],
+            [
+              50.2620804,
+              53.0734171
+            ],
+            [
+              50.2621846,
+              53.0734331
+            ],
+            [
+              50.2621674,
+              53.0734737
+            ],
+            [
+              50.2620631,
+              53.0734578
+            ]
+          ]
+        ]
+      },
+      "id": "way/224839615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224839616",
+        "building": "yes",
+        "name": "бл.-п. 79 км",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.3321634,
+              53.0927713
+            ],
+            [
+              50.3322588,
+              53.0927384
+            ],
+            [
+              50.3323084,
+              53.0927904
+            ],
+            [
+              50.332213,
+              53.0928233
+            ],
+            [
+              50.3321634,
+              53.0927713
+            ]
+          ]
+        ]
+      },
+      "id": "way/224839616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224857509",
+        "building": "yes",
+        "name": "бл.-п. 43 км",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.8686347,
+              52.9885133
+            ],
+            [
+              49.8686578,
+              52.9885678
+            ],
+            [
+              49.8685637,
+              52.9885822
+            ],
+            [
+              49.8685407,
+              52.9885277
+            ],
+            [
+              49.8686347,
+              52.9885133
+            ]
+          ]
+        ]
+      },
+      "id": "way/224857509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224857510",
+        "building": "yes",
+        "name": "бл.-п. 63 км",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.1037154,
+              53.0607716
+            ],
+            [
+              50.1037122,
+              53.0606892
+            ],
+            [
+              50.1037984,
+              53.060688
+            ],
+            [
+              50.1038016,
+              53.0607704
+            ],
+            [
+              50.1037154,
+              53.0607716
+            ]
+          ]
+        ]
+      },
+      "id": "way/224857510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238770412",
+        "addr:city": "Алексеевка",
+        "addr:housenumber": "2Б",
+        "addr:street": "Вокзальная улица",
+        "area": "yes",
+        "building": "yes",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              50.4867121,
+              53.2356942
+            ],
+            [
+              50.4870262,
+              53.235823
+            ],
+            [
+              50.4869214,
+              53.2359146
+            ],
+            [
+              50.4866072,
+              53.2357857
+            ],
+            [
+              50.4867121,
+              53.2356942
+            ]
+          ]
+        ]
+      },
+      "id": "way/238770412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/206031229",
+        "name": "Мастрюково",
+        "name:en": "Mastryukovo",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2024914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9678429,
+          53.475007
+        ]
+      },
+      "id": "node/206031229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/258050799",
+        "name": "Отвага",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2024792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4803789,
+          53.3520576
+        ]
+      },
+      "id": "node/258050799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/351119704",
+        "name": "Юнгородок",
+        "name:cs": "Jungorodok",
+        "name:en": "Yungorodok",
+        "name:nl": "Joengorodok",
+        "name:pt": "Estação Iungorodok",
+        "operator": "Самарский метрополитен",
+        "railway": "station",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q2328158",
+        "wikipedia": "ru:Юнгородок (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2825835,
+          53.212474
+        ]
+      },
+      "id": "node/351119704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/351119750",
+        "name": "Безымянка",
+        "name:cs": "Bezymjanka",
+        "name:en": "Bezymyanka",
+        "name:nl": "Bezymjanka",
+        "name:pt": "Estação Bezymianka",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2424859",
+        "wikipedia": "ru:Безымянка (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2484379,
+          53.2128366
+        ]
+      },
+      "id": "node/351119750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413698856",
+        "esr:user": "639504",
+        "name": "Липяги",
+        "name:en": "Lipyagi",
+        "name:ru": "Липяги",
+        "railway": "station",
+        "uic_ref": "2024613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.9847149,
+          53.1014596
+        ]
+      },
+      "id": "node/413698856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413706971",
+        "esr:user": "639400",
+        "name": "Новокуйбышевская",
+        "name:en": "Novokuybyishevskya",
+        "name:ru": "Новокуйбышевская",
+        "railway": "station",
+        "uic_name": "Nowokujbischewskaja",
+        "uic_ref": "2024612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8974723,
+          53.1151912
+        ]
+      },
+      "id": "node/413706971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417949757",
+        "esr:user": "639330",
+        "name": "Жигули",
+        "name:en": "Zhiguli",
+        "name:ru": "Жигули",
+        "railway": "station",
+        "uic_ref": "2024893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.842261,
+          53.0702276
+        ]
+      },
+      "id": "node/417949757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008171",
+        "name": "Победа",
+        "name:cs": "Poběda",
+        "name:en": "Pobeda",
+        "name:nl": "Pobeda",
+        "name:pt": "Estação Pobeda",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2288199",
+        "wikipedia": "ru:Победа (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2357699,
+          53.2069832
+        ]
+      },
+      "id": "node/442008171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008172",
+        "name": "Советская",
+        "name:cs": "Sovětskaja",
+        "name:en": "Sovetskaya",
+        "name:nl": "Sovetskaja",
+        "name:pt": "Estação Sovietskaia",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1881804",
+        "wikipedia": "ru:Советская (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2204405,
+          53.2015543
+        ]
+      },
+      "id": "node/442008172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008173",
+        "name": "Спортивная",
+        "name:cs": "Sportivnaja",
+        "name:en": "Sportivnaya",
+        "name:nl": "Sportivnaja",
+        "name:pt": "Estação Sportivnaia",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2110830",
+        "wikipedia": "ru:Спортивная (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1995781,
+          53.2009557
+        ]
+      },
+      "id": "node/442008173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008174",
+        "name": "Гагаринская",
+        "name:cs": "Gagarinskaja",
+        "name:en": "Gagarinskaya",
+        "name:nl": "Gagarinskaja",
+        "name:pt": "Estação Gagarinskaia",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2424871",
+        "wikipedia": "ru:Гагаринская (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1765124,
+          53.2002741
+        ]
+      },
+      "id": "node/442008174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008175",
+        "name": "Московская",
+        "name:cs": "Moskovskaja",
+        "name:en": "Moskovskaya",
+        "name:eo": "Moskovskaja",
+        "name:nl": "Moskovskaja",
+        "name:pt": "Estação Moskovskaia",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2180438",
+        "wikipedia": "ru:Московская (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1604963,
+          53.2028088
+        ]
+      },
+      "id": "node/442008175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442008176",
+        "name": "Российская",
+        "name:cs": "Rossijskaja",
+        "name:en": "Rossiyskaya",
+        "name:pt": "Estação Rossiiskaia",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2428799",
+        "wikipedia": "ru:Российская (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1489865,
+          53.2119179
+        ]
+      },
+      "id": "node/442008176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457012018",
+        "esr:user": "657907",
+        "name": "Самара",
+        "name:de": "Der Bahnhof Samara",
+        "name:en": "Samara railway station",
+        "name:es": "La estación de tren de Samara",
+        "name:fr": "Samara de la gare",
+        "name:ja": "サマーラ",
+        "name:ru": "Самара",
+        "railway": "station",
+        "uic_name": "Samara",
+        "uic_ref": "2024000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1213009,
+          53.1856845
+        ]
+      },
+      "id": "node/457012018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/469174694",
+        "esr:user": "639307",
+        "name": "Томылово",
+        "name:en": "Tomylovo",
+        "name:ru": "Томылово",
+        "railway": "station",
+        "uic_ref": "2024611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7430155,
+          53.0158685
+        ]
+      },
+      "id": "node/469174694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/596477731",
+        "name": "Аэропорт Курумоч",
+        "name:en": "Airport Kurumoch",
+        "name:fr": "L'aéroport Kouroumotch",
+        "name:it": "L'aeroporto Kurumoč",
+        "network": "ОАО «РЖД»",
+        "operator": "Самарский регион Куйбышевской железной дороги",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1404362,
+          53.5092783
+        ]
+      },
+      "id": "node/596477731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/664311714",
+        "esr:user": "657705",
+        "name": "Самарка",
+        "name:ru": "Самарка",
+        "railway": "station",
+        "uic_ref": "2038040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2944917,
+          53.2112578
+        ]
+      },
+      "id": "node/664311714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674505965",
+        "esr:user": "636826",
+        "name": "Пискалы",
+        "name:ru": "Пискалы",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2024920",
+        "wikidata": "Q4363622",
+        "wikipedia": "ru:Пискалы (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7340299,
+          53.4807037
+        ]
+      },
+      "id": "node/674505965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728263147",
+        "esr:user": "636811",
+        "name": "Канал",
+        "name:ru": "Канал",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2025901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6234558,
+          53.4731109
+        ]
+      },
+      "id": "node/728263147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728305104",
+        "esr:user": "636703",
+        "name": "Жигулёвск",
+        "name:ru": "Жигулевск",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Shigulewsk",
+        "uic_ref": "2024785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5144618,
+          53.3974097
+        ]
+      },
+      "id": "node/728305104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1492699613",
+        "name": "Химическая",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.4794255,
+          53.5277785
+        ]
+      },
+      "id": "node/1492699613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621427484",
+        "name": "Козелковская",
+        "name:en": "Kozelkovskaya",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2024906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3017126,
+          53.3015397
+        ]
+      },
+      "id": "node/1621427484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1626653499",
+        "name": "Безымянка",
+        "name:cs": "Bezymjanka",
+        "name:en": "Bezymyanka",
+        "name:nl": "Bezymjanka",
+        "name:pt": "Estação Bezymianka",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2024620",
+        "wikidata": "Q4081110",
+        "wikipedia": "ru:Безымянка (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.252804,
+          53.2063225
+        ]
+      },
+      "id": "node/1626653499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1626653550",
+        "name": "Пятилетка",
+        "name:en": "Pyatiletka",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2656292,
+          53.2109838
+        ]
+      },
+      "id": "node/1626653550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2008072022",
+        "name": "Кряж",
+        "name:en": "Kryazh",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2024614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.07156,
+          53.1193879
+        ]
+      },
+      "id": "node/2008072022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010191019",
+        "name": "Средневолжская",
+        "name:en": "Srednevolzhskaya",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2024798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2878447,
+          53.2336037
+        ]
+      },
+      "id": "node/2010191019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014361412",
+        "name": "Алексеевская",
+        "railway": "station",
+        "uic_ref": "2024779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.4868184,
+          53.2358037
+        ]
+      },
+      "id": "node/2014361412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2014395312",
+        "name": "Водинская",
+        "name:de": "Wodinskaja",
+        "name:en": "Vodinskaya",
+        "network": "ОАО «РЖД»",
+        "operator": "Самарский регион Куйбышевской железной дороги",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2024888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3410936,
+          53.3719247
+        ]
+      },
+      "id": "node/2014395312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016132280",
+        "name": "Жигулёвское Море",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_name": "Shigulewskoe More",
+        "uic_ref": "2024786",
+        "wikidata": "Q4180052",
+        "wikipedia": "ru:Жигулёвское море (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5247314,
+          53.477615
+        ]
+      },
+      "id": "node/2016132280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016394663",
+        "name": "Смышляевка",
+        "name:ja": "スムィシリャエフカ",
+        "railway": "station",
+        "uic_ref": "2024797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3839832,
+          53.259944
+        ]
+      },
+      "id": "node/2016394663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021963817",
+        "name": "Царевщина",
+        "name:en": "Tsarevschina",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2024615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1960234,
+          53.4199058
+        ]
+      },
+      "id": "node/2021963817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3779454539",
+        "name": "Алабинская",
+        "operator": "Самарский метрополитен",
+        "public_transport": "platform",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q4060383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.1341954,
+          53.2095756
+        ]
+      },
+      "id": "node/3779454539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4074554081",
+        "esr:user": "639203",
+        "name": "Чапаевск",
+        "name:de": "Tschapajewsk",
+        "name:en": "Chapaevsk",
+        "name:ja": "チャパイェフスク",
+        "name:ru": "Чапаевск",
+        "railway": "station",
+        "uic_name": "Tschapaewsk",
+        "uic_ref": "2001529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7027519,
+          52.9772191
+        ]
+      },
+      "id": "node/4074554081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899809917",
+        "esr:user": "637509",
+        "name": "Курумоч",
+        "name:de": "Kurumotsch",
+        "name:en": "Kurumoch",
+        "name:es": "Kurúmoch",
+        "name:fr": "Kouroumotch",
+        "name:it": "Kurumoč",
+        "name:ru": "Курумоч",
+        "railway": "station",
+        "uic_ref": "2024909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0760247,
+          53.4609733
+        ]
+      },
+      "id": "node/4899809917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6986625318",
+        "name": "Кировская",
+        "name:cs": "Kirovskaja",
+        "name:en": "Kirovskaya",
+        "name:nl": "Kirovskaja",
+        "name:pt": "Estação Kirovskaia",
+        "operator": "Самарский метрополитен",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2423374",
+        "wikipedia": "ru:Кировская (станция метро, Самара)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.2695324,
+          53.2112906
+        ]
+      },
+      "id": "node/6986625318"
+    }
+  ]
+}

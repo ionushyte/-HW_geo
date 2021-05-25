@@ -1,0 +1,472 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T10:47:57Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330278555",
+        "name": "Аметьево",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.163519,
+          55.7647727
+        ]
+      },
+      "id": "node/330278555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886276",
+        "foot": "no",
+        "name": "Проспект Победы",
+        "name:en": "Prospekt Pobedy",
+        "name:ru": "Проспект Победы",
+        "name:tt": "Җиңү проспекты",
+        "name:uk": "Проспект Перемоги",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815291",
+        "wikipedia": "ru:Проспект Победы (станция метро, Казань)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2087778,
+          55.749663
+        ]
+      },
+      "id": "node/441886276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886277",
+        "foot": "no",
+        "name": "Горки",
+        "name:en": "Gorki",
+        "name:ru": "Горки",
+        "name:tt": "Горки",
+        "name:uk": "Гірки",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q2541908",
+        "wikipedia": "ru:Горки (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1916069,
+          55.759693
+        ]
+      },
+      "id": "node/441886277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886279",
+        "foot": "no",
+        "name": "Суконная слобода",
+        "name:de": "Sukonnaja sloboda",
+        "name:en": "Sukonnaya sloboda",
+        "name:ru": "Суконная слобода",
+        "name:tt": "Сукно бистәсе",
+        "name:tt-lat": "Sukno bistäse",
+        "name:uk": "Суконна слобода",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "public_transport": "station",
+        "station": "subway",
+        "subway": "yes",
+        "train": "yes",
+        "wikidata": "Q23815628",
+        "wikipedia": "ru:Суконная слобода (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1435332,
+          55.7765517
+        ]
+      },
+      "id": "node/441886279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886280",
+        "foot": "no",
+        "name": "площадь Тукая",
+        "name:en": "Tukay Square",
+        "name:ru": "площадь Тукая",
+        "name:tt": "Тукай мәйданы",
+        "name:uk": "Площа Габдулли Тукая",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815637",
+        "wikipedia": "ru:Площадь Габдуллы Тукая (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1249837,
+          55.7855307
+        ]
+      },
+      "id": "node/441886280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441886281",
+        "name": "Кремлёвская",
+        "name:de": "Kremljowskaja",
+        "name:en": "Kremlyovskaya",
+        "name:ru": "Кремлёвская",
+        "name:tt": "Кремль",
+        "name:tt-lat": "Kreml",
+        "name:uk": "Кремлівська",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815663",
+        "wikipedia": "ru:Кремлёвская (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1071056,
+          55.795151
+        ]
+      },
+      "id": "node/441886281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/485545210",
+        "esr:user": "250919",
+        "name": "Восстание-Пассажирская",
+        "railway": "station",
+        "uic_name": "Wosstanie Passajirsk",
+        "uic_ref": "2060961",
+        "wikidata": "Q33820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0812189,
+          55.8434389
+        ]
+      },
+      "id": "node/485545210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/507118362",
+        "esr:user": "250800",
+        "name": "Ометьево",
+        "railway": "station",
+        "uic_ref": "2061402",
+        "wikidata": "Q28417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1676379,
+          55.7779164
+        ]
+      },
+      "id": "node/507118362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/706084497",
+        "esr:user": "250815",
+        "name": "Новаторов",
+        "railway": "station",
+        "uic_ref": "2061555",
+        "wikidata": "Q28415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1746832,
+          55.806423
+        ]
+      },
+      "id": "node/706084497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/819347415",
+        "name": "Козья слобода",
+        "name:en": "Kozya sloboda",
+        "name:ru": "Козья слобода",
+        "name:tt": "Кәҗә бистәсе",
+        "name:uk": "Козина слобода",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q2719256",
+        "wikipedia": "ru:Козья слобода (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.098499,
+          55.81716
+        ]
+      },
+      "id": "node/819347415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/913287042",
+        "foot": "no",
+        "name": "Аметьево",
+        "name:en": "Ametyevo",
+        "name:ru": "Аметьево",
+        "name:tt": "Әмәт",
+        "name:uk": "Аметьєво",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815619",
+        "wikipedia": "ru:Аметьево (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.16651,
+          55.765133
+        ]
+      },
+      "id": "node/913287042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945634156",
+        "esr:user": "251019",
+        "name": "804 км",
+        "railway": "station",
+        "uic_ref": "2061430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2222976,
+          55.8722966
+        ]
+      },
+      "id": "node/945634156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1099732532",
+        "esr:user": "250707",
+        "name": "Вахитово",
+        "name:tt-lat": "Vaxitovo",
+        "railway": "station",
+        "uic_ref": "2061401",
+        "wikidata": "Q33822",
+        "wikipedia": "ru:Вахитово (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1073058,
+          55.7677505
+        ]
+      },
+      "id": "node/1099732532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931656",
+        "foot": "no",
+        "name": "Авиастроительная",
+        "name:en": "Aviastroitelnaya",
+        "name:ru": "Авиастроительная",
+        "name:tt": "Авиатөзелеш",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815647",
+        "wikipedia": "ru:Авиастроительная (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0843827,
+          55.8562385
+        ]
+      },
+      "id": "node/1420931656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931658",
+        "foot": "no",
+        "name": "Северный вокзал",
+        "name:en": "Severny vokzal",
+        "name:ru": "Северный вокзал",
+        "name:tt": "Төньяк вокзал",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4412325",
+        "wikipedia": "ru:Северный вокзал (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.08198,
+          55.8419677
+        ]
+      },
+      "id": "node/1420931658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420931684",
+        "foot": "no",
+        "name": "Яшьлек",
+        "name:en": "Yashlek",
+        "name:ru": "Яшьлек",
+        "name:tt": "Яшьлек",
+        "name:tt-lat": "Yäşlek",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4539959",
+        "wikipedia": "ru:Яшьлек (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0822807,
+          55.8284795
+        ]
+      },
+      "id": "node/1420931684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1449551455",
+        "esr:user": "250820",
+        "name": "Компрессорный",
+        "railway": "station",
+        "uic_ref": "2062435",
+        "wikidata": "Q33821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1830412,
+          55.8220059
+        ]
+      },
+      "id": "node/1449551455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795178533",
+        "alt_name": "Казань",
+        "alt_name:ru": "Казань",
+        "esr:user": "250302",
+        "name": "Казань-Пассажирская",
+        "name:en": "Kazan-Passazhirskaya",
+        "name:ru": "Казань-Пассажирская",
+        "name:tt": "Казан-Пассажирлы",
+        "name:tt-lat": "Qazan-Passajirlı",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_name": "Kazan Passajirskij",
+        "uic_ref": "2000715",
+        "wikidata": "Q34085",
+        "wikipedia": "ru:Казань-Пассажирская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0997021,
+          55.7886328
+        ]
+      },
+      "id": "node/4795178533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5868304044",
+        "name": "Дубравная",
+        "name:en": "Dubravnaya",
+        "name:tt": "Дубравная",
+        "network": "Казанский метрополитен",
+        "operator": "МУП «Метроэлектротранс»",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q23815085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.2191069,
+          55.7436814
+        ]
+      },
+      "id": "node/5868304044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466448623",
+        "esr:user": "251004",
+        "name": "Дербышки",
+        "railway": "station",
+        "uic_ref": "2060617",
+        "wikidata": "Q83386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1955784,
+          55.8530649
+        ]
+      },
+      "id": "node/6466448623"
+    }
+  ]
+}

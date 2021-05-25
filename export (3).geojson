@@ -1,0 +1,699 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T09:51:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61569463",
+        "building": "train_station",
+        "name": "Пашино",
+        "name:en": "Pashino",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.9866435,
+              55.1736386
+            ],
+            [
+              82.9863207,
+              55.1733354
+            ],
+            [
+              82.9865494,
+              55.173256
+            ],
+            [
+              82.9868721,
+              55.1735592
+            ],
+            [
+              82.9866435,
+              55.1736386
+            ]
+          ]
+        ]
+      },
+      "id": "way/61569463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253501165",
+        "building": "yes",
+        "name": "Золотая нива",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.977908,
+              55.0374662
+            ],
+            [
+              82.9777548,
+              55.0373677
+            ],
+            [
+              82.9778661,
+              55.0373108
+            ],
+            [
+              82.9780193,
+              55.0374094
+            ],
+            [
+              82.9779648,
+              55.0374372
+            ],
+            [
+              82.977908,
+              55.0374662
+            ]
+          ]
+        ]
+      },
+      "id": "way/253501165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279559681",
+        "name": "Инская",
+        "name:en": "Inskaya",
+        "railway": "station",
+        "uic_name": "Inskaja",
+        "uic_ref": "2044776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1196256,
+          54.9643598
+        ]
+      },
+      "id": "node/279559681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296993659",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Площадь Гарина-Михайловского",
+        "name:en": "Garin-Mikhailovsky Square",
+        "name:ru": "Площадь Гарина-Михайловского",
+        "name:zh": "加林 - 米哈伊洛夫斯基广场",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1913884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8988362,
+          55.0353985
+        ]
+      },
+      "id": "node/296993659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296995573",
+        "colour": "red",
+        "layer": "-4",
+        "name": "Красный проспект",
+        "name:en": "Krasnyi Prospekt",
+        "name:ru": "Красный проспект",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2178961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9173614,
+          55.0415135
+        ]
+      },
+      "id": "node/296995573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296998275",
+        "colour": "red",
+        "layer": "-4",
+        "name": "Площадь Ленина",
+        "name:en": "Lenin Square",
+        "name:ru": "Площадь Ленина",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2626644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.920499,
+          55.0301075
+        ]
+      },
+      "id": "node/296998275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296998283",
+        "colour": "red",
+        "layer": "-4",
+        "name": "Октябрьская",
+        "name:en": "Oktyabrskaya",
+        "name:ru": "Октябрьская",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1121692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9391438,
+          55.0189567
+        ]
+      },
+      "id": "node/296998283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296998287",
+        "colour": "red",
+        "layer": "-4",
+        "name": "Речной вокзал",
+        "name:en": "Rechnoy Vokzal",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1854829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.938378,
+          55.008946
+        ]
+      },
+      "id": "node/296998287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321521605",
+        "esr:user": "851207",
+        "name": "Новосибирск-Западный",
+        "name:de": "Novosibirsk-Nordwest",
+        "name:en": "Novosibirsk-Zapadny",
+        "name:ru": "Новосибирск-Западный",
+        "railway": "station",
+        "uic_name": "Novosibirsk-Zapadnij",
+        "uic_ref": "2044003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8545317,
+          54.9952899
+        ]
+      },
+      "id": "node/321521605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335996181",
+        "colour": "red",
+        "int_name": "Ploshchad Marksa",
+        "layer": "-4",
+        "name": "Площадь Маркса",
+        "name:en": "Ploschad Marksa",
+        "name:ru": "Площадь Маркса",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wheelchair": "no",
+        "wikidata": "Q2209314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8929739,
+          54.9830288
+        ]
+      },
+      "id": "node/335996181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335999524",
+        "colour": "red",
+        "layer": "-4",
+        "name": "Заельцовская",
+        "name:en": "Zayeltsovksaya",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wheelchair": "no",
+        "wikidata": "Q2164511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9125309,
+          55.059433
+        ]
+      },
+      "id": "node/335999524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416056907",
+        "colour": "red",
+        "int_name": "Studencheskaya",
+        "layer": "-4",
+        "name": "Студенческая",
+        "name:en": "Studencheskaya",
+        "name:ru": "Студенческая",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2184567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9060793,
+          54.9889669
+        ]
+      },
+      "id": "node/416056907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416063356",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Сибирская",
+        "name:en": "Sibirskaya",
+        "name:ru": "Сибирская",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2360679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9185266,
+          55.04232
+        ]
+      },
+      "id": "node/416063356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416063358",
+        "layer": "-4",
+        "name": "Гагаринская",
+        "name:en": "Gagarinskaya",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wheelchair": "no",
+        "wikidata": "Q2278516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9147289,
+          55.0512301
+        ]
+      },
+      "id": "node/416063358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416063360",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Маршала Покрышкина",
+        "name:en": "Marshala Pokryshkina",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2418957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9349998,
+          55.0437018
+        ]
+      },
+      "id": "node/416063360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668461774",
+        "esr:user": "851620",
+        "name": "Мочище",
+        "name:en": "Mochische",
+        "name:ru": "Мочище",
+        "railway": "station",
+        "uic_ref": "2044774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1186751,
+          55.1557819
+        ]
+      },
+      "id": "node/668461774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/902323297",
+        "esr:user": "850204",
+        "name": "Клещиха",
+        "name:en": "Kleschikha",
+        "name:ru": "Клещиха",
+        "railway": "station",
+        "uic_ref": "2044951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8194172,
+          54.9660527
+        ]
+      },
+      "id": "node/902323297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1165017127",
+        "name": "Иня-Восточная",
+        "name:en": "Inya East",
+        "railway": "station",
+        "uic_ref": "2045845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0041241,
+          55.110203
+        ]
+      },
+      "id": "node/1165017127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691667674",
+        "name": "Сибирская",
+        "name:en": "Sibirskaya",
+        "railway": "station",
+        "uic_name": "Sibirskaya",
+        "uic_ref": "2044777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.058193,
+          54.9623781
+        ]
+      },
+      "id": "node/1691667674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2005072395",
+        "name": "Новосибирск-Южный",
+        "name:de": "Novosibirsk-Süd",
+        "name:en": "Novosibirsk South",
+        "railway": "station",
+        "uic_name": "Novosibirsk-Jujnij",
+        "uic_ref": "2044004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9522049,
+          55.0044916
+        ]
+      },
+      "id": "node/2005072395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012878022",
+        "name": "Новосибирск-Восточный",
+        "name:de": "Novosibirsk-Ost",
+        "name:en": "Novosibirsk East",
+        "railway": "station",
+        "uic_ref": "2044002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9741446,
+          55.0679429
+        ]
+      },
+      "id": "node/2012878022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2063375241",
+        "name": "Барышево",
+        "name:en": "Baryshevo",
+        "operator": "Западно-Сибирская железная дорога",
+        "platforms": "2",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1845609,
+          54.9549193
+        ]
+      },
+      "id": "node/2063375241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2479203468",
+        "name": "Обь",
+        "name:en": "Ob'",
+        "name:ja": "オビ",
+        "railway": "station",
+        "uic_name": "Ob(RUS)",
+        "uic_ref": "2044773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7262713,
+          54.9922738
+        ]
+      },
+      "id": "node/2479203468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3817993526",
+        "name": "Спортивная",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8387275,
+          55.0537907
+        ]
+      },
+      "id": "node/3817993526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3817996485",
+        "name": "Заельцовский парк",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8522301,
+          55.0497501
+        ]
+      },
+      "id": "node/3817996485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4008724786",
+        "esr:user": "850609",
+        "name": "Новосибирск-Главный",
+        "name:de": "Novosibirsk Hauptbahnhof",
+        "name:en": "Novosibirsk Main",
+        "name:ru": "Новосибирск-Главный",
+        "name:zh": "新西伯利亚火车总站",
+        "railway": "station",
+        "uic_name": "Novosibirsk(RUS)",
+        "uic_ref": "2044001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.8947243,
+          55.0359357
+        ]
+      },
+      "id": "node/4008724786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185373462",
+        "name": "Зоопарк",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.867567,
+          55.0548002
+        ]
+      },
+      "id": "node/4185373462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343794962",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Берёзовая роща",
+        "name:en": "Beryozovaya roshcha",
+        "network": "Новосибирский метрополитен",
+        "operator": "МУП \"Новосибирский метрополитен\"",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2626869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9529867,
+          55.0433591
+        ]
+      },
+      "id": "node/4343794962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7539649215",
+        "name": "Гагаринская",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9141883,
+          55.049895
+        ]
+      },
+      "id": "node/7539649215"
+    }
+  ]
+}

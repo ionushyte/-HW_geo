@@ -1,0 +1,742 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T11:05:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/193723282",
+        "esr:user": "780622",
+        "name": "Путёвка",
+        "railway": "station",
+        "uic_ref": "2030477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6981498,
+          56.8174062
+        ]
+      },
+      "id": "node/193723282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/193781808",
+        "description": "Только грузовые операции.",
+        "name": "Север",
+        "public_transport": "no",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5994413,
+          56.8849668
+        ]
+      },
+      "id": "node/193781808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/193789452",
+        "name": "Гипсовая",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5517273,
+          56.8789423
+        ]
+      },
+      "id": "node/193789452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241895309",
+        "esr:user": "781004",
+        "name": "Керамик",
+        "name:en": "Ceramic",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "service": "local",
+        "train": "yes",
+        "uic_name": "Keramik",
+        "uic_ref": "2030475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6087731,
+          56.7505929
+        ]
+      },
+      "id": "node/241895309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/241964408",
+        "description": "RZD",
+        "esr:user": "771515",
+        "name": "Гать",
+        "operator": "ОАО РЖД",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "uic_ref": "2030657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4284869,
+          56.9423123
+        ]
+      },
+      "id": "node/241964408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297003656",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Уральская",
+        "name:en": "Uralskaya",
+        "name:pl": "Stacja Uralskaja",
+        "name:pt": "Estação Uralhskaia",
+        "name:ru": "Уральская",
+        "name:uk": "Уральська",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "railway": "station",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q2389728",
+        "wikipedia": "ru:Уральская (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6003203,
+          56.8575654
+        ]
+      },
+      "id": "node/297003656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297003658",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Динамо",
+        "name:en": "Dinamo",
+        "name:pl": "Stacja Dinamo",
+        "name:pt": "Estação Dínamo",
+        "name:ru": "Динамо",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "railway": "station",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q2389715",
+        "wikipedia": "ru:Динамо (станция метро, Екатеринбург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5993974,
+          56.8476503
+        ]
+      },
+      "id": "node/297003658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297003665",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Геологическая",
+        "name:en": "Geologicheskaya",
+        "name:pl": "Stacja Gieologiczeskaja",
+        "name:pt": "Estação Gueologuitcheskaia",
+        "name:ru": "Геологическая",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "railway": "station",
+        "ref": "7",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q1980487",
+        "wikipedia": "ru:Геологическая (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6026826,
+          56.8267858
+        ]
+      },
+      "id": "node/297003665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297003727",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Машиностроителей",
+        "name:en": "Mashinostroiteley",
+        "name:pl": "Stacja Maszynostroitielej",
+        "name:pt": "Estação Machinostroitelei",
+        "name:ru": "Машиностроителей",
+        "name:uk": "Машинобудівників",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "railway": "station",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q2389760",
+        "wikipedia": "ru:Машиностроителей (станция метро, Екатеринбург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6121753,
+          56.8774068
+        ]
+      },
+      "id": "node/297003727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297003728",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Площадь 1905 года",
+        "name:en": "Ploshchad 1905 Goda",
+        "name:nl": "Plosjtsjad 1905 goda",
+        "name:pl": "Stacja Plac 1905 Roku",
+        "name:pt": "Estação Ploshchad Tysiatcha Deviatssot Piatogo Goda",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q1872446",
+        "wikipedia": "ru:Площадь 1905 года (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5990344,
+          56.8363538
+        ]
+      },
+      "id": "node/297003728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297004188",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Проспект Космонавтов",
+        "name:en": "Prospekt Kosmonavtov",
+        "name:pl": "Stacja Prospekt Kosmonautów",
+        "name:pt": "Estação Prospekt Kosmonavtov",
+        "name:ru": "Проспект Космонавтов",
+        "name:uk": "Проспект Космонавтів",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "railway": "station",
+        "station": "subway",
+        "transport": "subway",
+        "wikidata": "Q2389706",
+        "wikipedia": "ru:Проспект Космонавтов (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6140234,
+          56.9013898
+        ]
+      },
+      "id": "node/297004188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297004189",
+        "colour": "green",
+        "layer": "-4",
+        "name": "Уралмаш",
+        "name:en": "Uralmash",
+        "name:pl": "Stacja Urałmasz",
+        "name:pt": "Estação Uralmach",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "2",
+        "station": "subway",
+        "subway": "yes",
+        "transport": "subway",
+        "wikidata": "Q2389654",
+        "wikipedia": "ru:Уралмаш (станция метро)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6135553,
+          56.8882608
+        ]
+      },
+      "id": "node/297004189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412724048",
+        "description": "Только грузовые операции. Пассажирского движения нет.",
+        "name": "Комсомольская",
+        "network": "АО \"УЗТМ\"",
+        "operator": "АО \"УЗТМ\"",
+        "public_transport": "no",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5525018,
+          56.8885262
+        ]
+      },
+      "id": "node/412724048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412724564",
+        "name": "Садовая",
+        "public_transport": "no",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5659392,
+          56.9280877
+        ]
+      },
+      "id": "node/412724564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413966162",
+        "name": "Раздельная",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.759751,
+          56.7505132
+        ]
+      },
+      "id": "node/413966162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418689733",
+        "name": "Калиновка",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6329915,
+          56.9124957
+        ]
+      },
+      "id": "node/418689733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/432482394",
+        "esr:user": "794305",
+        "name": "Кольцово",
+        "name:ja": "コリツォーヴォ",
+        "railway": "station",
+        "uic_name": "Kolzowo",
+        "uic_ref": "2030058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.8193298,
+          56.7617259
+        ]
+      },
+      "id": "node/432482394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/973555574",
+        "name": "Центральная",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6427736,
+          56.817693
+        ]
+      },
+      "id": "node/973555574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/980287386",
+        "esr:user": "780800",
+        "name": "Аппаратная",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2030054",
+        "wikidata": "Q28667498",
+        "wikipedia": "ru:Аппаратная (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6752646,
+          56.871556
+        ]
+      },
+      "id": "node/980287386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/999711184",
+        "name": "Исток",
+        "name:en": "Istok",
+        "network": "RZD",
+        "operator": "ОАО РЖД",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "service": "commuter",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7878137,
+          56.7876577
+        ]
+      },
+      "id": "node/999711184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1521302664",
+        "bench": "yes",
+        "colour": "green",
+        "covered": "yes",
+        "layer": "-4",
+        "name": "Ботаническая",
+        "name:en": "Botanicheskaya",
+        "name:pl": "Stacja Botaniczeskaja",
+        "name:ru": "Ботаническая",
+        "network": "Городской общественный транспорт Екатеринбурга",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "shelter": "no",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q4095097",
+        "wikipedia": "ru:Ботаническая (станция метро, Екатеринбург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6319587,
+          56.7974044
+        ]
+      },
+      "id": "node/1521302664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1753697117",
+        "esr:user": "780302",
+        "name": "Звезда",
+        "railway": "station",
+        "uic_ref": "2030478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.5778852,
+          56.8685676
+        ]
+      },
+      "id": "node/1753697117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843452826",
+        "bench": "yes",
+        "colour": "green",
+        "covered": "yes",
+        "layer": "-4",
+        "name": "Чкаловская",
+        "name:pl": "Stacja Czkałowskaja",
+        "name:ru": "Чкаловская",
+        "name:uk": "Чкаловська",
+        "network": "Городской общественный транспорт Екатеринбурга",
+        "operator": "ЕМУП «Екатеринбургский метрополитен»",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "ref": "8",
+        "station": "subway",
+        "subway": "yes",
+        "wikidata": "Q3663002",
+        "wikipedia": "ru:Чкаловская (станция метро, Екатеринбург)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6097872,
+          56.8078202
+        ]
+      },
+      "id": "node/1843452826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2002536952",
+        "esr:user": "785005",
+        "name": "Березит",
+        "network": "Свердловская жедезная дорога",
+        "operator": "ОАО «РЖД»",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "uic_ref": "2030216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7230451,
+          56.9536725
+        ]
+      },
+      "id": "node/2002536952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2225475097",
+        "description": "RZD",
+        "esr:user": "780209",
+        "name": "Шувакиш",
+        "operator": "ОАО РЖД",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2030472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4819693,
+          56.9203752
+        ]
+      },
+      "id": "node/2225475097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2608907616",
+        "description": "Только грузовые операции.",
+        "name": "Новая",
+        "network": "АО \"УЗТМ\"",
+        "operator": "АО \"УЗТМ\"",
+        "public_transport": "no",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.571887,
+          56.8778935
+        ]
+      },
+      "id": "node/2608907616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611275895",
+        "name": "Балтым",
+        "name:en": "Baltym",
+        "network": "УЗТМ",
+        "operator": "УЗТМ",
+        "public_transport": "stop_position",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.669937,
+          56.9567079
+        ]
+      },
+      "id": "node/3611275895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076132477",
+        "name": "Уктус",
+        "name:en": "Uktus",
+        "network": "RZD",
+        "operator": "РЖД",
+        "railway": "station",
+        "service": "local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6253119,
+          56.7778334
+        ]
+      },
+      "id": "node/4076132477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190501538",
+        "description": "RZD",
+        "name": "Гать",
+        "operator": "ОАО РЖД",
+        "public_transport": "stop_position",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4284489,
+          56.9422835
+        ]
+      },
+      "id": "node/4190501538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795178525",
+        "name": "Екатеринбург-Пассажирский",
+        "name:en": "Yekaterinburg-Passenger",
+        "old_name": "Свердловск-Пассажирский",
+        "old_name:en": "Sverdlovsk-Passenger",
+        "operator": "ОАО РЖД",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6060637,
+          56.8589136
+        ]
+      },
+      "id": "node/4795178525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795506479",
+        "alt_name": "Свердловск-Сортировочный",
+        "description": "RZD",
+        "name": "Екатеринбург-Сортировочный",
+        "old_name": "Свердловск-Сортировочный",
+        "operator": "ОАО РЖД",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q4174289",
+        "wikipedia": "ru:Екатеринбург-Сортировочный"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.4729879,
+          56.8824878
+        ]
+      },
+      "id": "node/4795506479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6467601842",
+        "esr:user": "780603",
+        "name": "Шарташ",
+        "name:ru:word_stress": "Шарта́ш",
+        "railway": "station",
+        "uic_name": "Shartash",
+        "uic_ref": "2030055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6485009,
+          56.8293519
+        ]
+      },
+      "id": "node/6467601842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7939335129",
+        "esr:user": "794201",
+        "name": "Лечебный",
+        "network": "RZD",
+        "operator": "RZD",
+        "railway": "station",
+        "uic_ref": "2030476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7272184,
+          56.7949401
+        ]
+      },
+      "id": "node/7939335129"
+    }
+  ]
+}

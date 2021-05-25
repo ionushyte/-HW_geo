@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-05-24T11:23:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/285428980",
+        "name": "Кизитеринка",
+        "railway": "station",
+        "uic_ref": "2065589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8269951,
+          47.2297278
+        ]
+      },
+      "id": "node/285428980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298085541",
+        "name": "Солнечная",
+        "name:en": "Solnechnaya",
+        "name:ru": "Солнечная",
+        "name:uk": "Сонячна",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7551228,
+          47.2405707
+        ]
+      },
+      "id": "node/298085541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415540891",
+        "esr:user": "510609",
+        "name": "Гниловская",
+        "name:ru": "Гниловская",
+        "railway": "station",
+        "uic_ref": "2064576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6357248,
+          47.19038
+        ]
+      },
+      "id": "node/415540891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778167843",
+        "alt_name": "Ростов-Товарный",
+        "esr:user": "510100",
+        "name": "Ростов-Товарный",
+        "name:ru": "Ростов-Товарный",
+        "railway": "station",
+        "uic_name": "Rostov Glavnij",
+        "uic_ref": "2064002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7479405,
+          47.2448234
+        ]
+      },
+      "id": "node/778167843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1246739552",
+        "name": "Батайск",
+        "railway": "station",
+        "uic_name": "Batajsk",
+        "uic_ref": "2064105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7555624,
+          47.1382349
+        ]
+      },
+      "id": "node/1246739552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1352131505",
+        "esr:user": "510505",
+        "name": "Хапры",
+        "name:de": "Chapry",
+        "name:en": "Khapry",
+        "name:hy": "Խապրի",
+        "name:ru": "Хапры",
+        "public_transport": "station",
+        "railway": "station",
+        "uic_ref": "2065142",
+        "wikidata": "Q4495643",
+        "wikipedia": "ru:Хапры (станция)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5087121,
+          47.2446383
+        ]
+      },
+      "id": "node/1352131505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1401122016",
+        "name": "Победа",
+        "name:en": "Pobeda",
+        "name:ru": "Победа",
+        "name:uk": "Побіда",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7644934,
+          47.248191
+        ]
+      },
+      "id": "node/1401122016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012751804",
+        "name": "Заречная",
+        "railway": "station",
+        "uic_ref": "2064069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7056455,
+          47.2052578
+        ]
+      },
+      "id": "node/2012751804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012751849",
+        "name": "Ростов-Западный",
+        "railway": "station",
+        "uic_ref": "2064687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6114176,
+          47.248382
+        ]
+      },
+      "id": "node/2012751849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2399273609",
+        "name": "Зелёный Луг",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7682079,
+          47.186877
+        ]
+      },
+      "id": "node/2399273609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2427071172",
+        "name": "Казачий",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7176408,
+          47.1542351
+        ]
+      },
+      "id": "node/2427071172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4009377916",
+        "esr:user": "510613",
+        "name": "Первомайская",
+        "name:ru": "Первомайская",
+        "railway": "station",
+        "uic_name": "Pervomajskay",
+        "uic_ref": "2064593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6071543,
+          47.1991944
+        ]
+      },
+      "id": "node/4009377916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439711033",
+        "esr:user": "510204",
+        "name": "Ростов-Главный",
+        "name:ru": "Ростов-Главный",
+        "railway": "station",
+        "uic_ref": "2064000",
+        "wikidata": "Q2028336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6903849,
+          47.2183421
+        ]
+      },
+      "id": "node/6439711033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6446470858",
+        "esr:user": "513541",
+        "name": "Александровка",
+        "name:ru": "Александровка",
+        "railway": "station",
+        "uic_ref": "2064909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0072972,
+          47.3243051
+        ]
+      },
+      "id": "node/6446470858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6465621579",
+        "name": "о.п. 1337 км",
+        "operator": "ОАО \"РЖД\"",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6479148,
+          47.2538893
+        ]
+      },
+      "id": "node/6465621579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7657132204",
+        "name": "Сельмаш",
+        "railway": "station",
+        "uic_ref": "2065580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7645922,
+          47.254836
+        ]
+      },
+      "id": "node/7657132204"
+    }
+  ]
+}
